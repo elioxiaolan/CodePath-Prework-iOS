@@ -4,7 +4,7 @@ Submitted by: **Xiao Lan**
 
 **Color Button** is a UI button that can change the screeen color to a random color when being tapped.
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
