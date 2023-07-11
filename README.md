@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/Users/xiaolan/Desktop/ColorButton.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://i.imgur.com/JL1snRo.gif)
+![](https://i.imgur.comfile/Users/xiaolan/Desktop/ColorButton.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
