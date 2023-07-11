@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Color Button*
 
-Submitted by: **Your Name Here**
+Submitted by: **Xiao Lan**
 
-**Name of your app** is an app that... [TODO] 
+**Color Button** is a UI button that can change the screeen color to a random color when being tapped.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com//Users/xiaolan/Desktop/ColorButton.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
