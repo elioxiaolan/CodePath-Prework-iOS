@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://imgur.com/a/IFoiZnT)
+![](https://imgur.com/1QkGZS1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -30,9 +30,38 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+Example App: **Spotify**
+
+- Users can see animated pictures in App
+- Smart recomended content
+
+Example App: **Youtube**
+
+- Smart recommended content
+- Daylight/Dark mode
+
+Example App: **Slack**
+
+- Adding custom emoji
+- Adding stickers for message
+
+**App Idea**: Adoption App exclusively for Beagles called **Beagles Unchained**
+
+Beagles Unchaned is an interactive App where beagles lovers can register/login, browse dogs’ profiles, and drop DM to make adoption inquiries to save dogs used in medical experiments.
+
+Typical Features:
+
+- Users can use built-in map to locate the nearest lab to find beagles
+- Every application should submit a pre-screen form for verification
+- Labs can post pictures of beagles for users
+- Labs and users can communicate in App
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Not familiar with Xcode
+- First time to write Swift code
 
 ## License
 
