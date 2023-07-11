@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![]([https://i.imgur.com/Kapture 2023-07-10 at 23.34.15.gif](https://imgur.com/a/IFoiZnT))
+![](https://imgur.com/a/IFoiZnT)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
